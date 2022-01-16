@@ -7,8 +7,6 @@
 </p>
 
 
-<p>Not really sure what to do for this part but....</p>
-
 endpoint paths, methods, perameters 
 
 | Table     |   Description    |     Path      |   Method  |  Parameter                                                     |
